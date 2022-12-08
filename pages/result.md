@@ -4,7 +4,7 @@
 
 <p> In the end, we were able to craft a solid platform that meets all of the <a href="dsgn-crit.html"> design criteria </a> we established. </p>
 
-<p> The Coast Cleanup Cruiser consists of distnct parts: </p>
+<p> The Coast Cleanup Cruiser consists of the folloowing distnct parts: </p>
 
 <h2> Hardware </h2> 
 

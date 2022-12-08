@@ -1,3 +1,5 @@
+<p> <a href="https://conrado-m-ucsd.github.io/SYN-100-Project/"> Return to Homepage </a> </p>
+
 <h3> Material and Component Selection </h3> 
 
 <p> The parts chosen for the reference design were selected based on our <a href="link-to-dsgn"> design criteria</a>. As a result, they were selected primarily based on cost, accessiblity, and effectiveness. While we encourage those creating their own Cruiser to select parts which best suit their needs, the materials listed in our Bill of Materials (BOM) are fully compatible with one another. 

@@ -2,7 +2,7 @@
 
 <h1> Design Criteria </h1>
 
-<p> Based on the project's <a href="https://conrado-m-ucsd.github.io/SYN-100-Project/pages/motives.html"> motivations</a>, select criteria guided the project. </p> 
+<p> Based on the project's <a href="https://conrado-m-ucsd.github.io/SYN-100-Project/pages/motives.html"> motivations</a>, certain criteria guided the project. </p> 
 <p>These criteria are: </p>
 
 <ol> 
