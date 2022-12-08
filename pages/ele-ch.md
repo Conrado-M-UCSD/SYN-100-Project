@@ -4,11 +4,11 @@
 
 <p> Here are some important specifications for the included reference design: </p>
 
-<h3> Operating Voltage: 12v DC </h3> 
+<h3> Operating Voltage: 12V DC </h3> 
 <h3> Typcial Power Consumption: ???w </h3> 
-<h3> Battery Capacity: ???mah </h3>
-<h3> Solar Charge Rate: ???wh </h3> 
-<h3> Estimated Battery Life: </h3> 
+<h3> Battery Capacity: 200Ah @ 12V DC (from 2 cells in parallel) </h3>
+<h3> Solar Charge Rate: 900 watt-hours (per day) </h3> 
+<h3> Estimated Battery Life: 5 hours</h3> 
 
 ---
 
