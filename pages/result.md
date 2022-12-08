@@ -11,6 +11,7 @@
 <h3> Robot core body </h3>
 
 ![Image of robot](../imgs/cruiser-core.png "Coast Cleanup Cruiser")
+
 <ul> 
     <li> Conveyer belt and olds trash collection bins </li> 
     <li> Includes batteries and top-mounted solar pannels </li> 
@@ -20,6 +21,7 @@
 <h3> Robot arm </h3> 
 
 ![Image of robot](../imgs/armv3-whole-closeup.png "Coast Cleanup Cruiser")
+
 <ul> 
     <li> Funnels trash towards center </li> 
     <li> Uses a wire mesh to target medium-sized trash and limit sand collection</li> 
@@ -28,6 +30,7 @@
 <h3> Watertight electronics enclosure </h3> 
 
 ![img](../imgs/electronics-box.png)
+
 <ul> 
     <li> Mounted at rear for convenient access </li> 
     <li> Great location for microcontroller and DC motor drivers </li> 
@@ -37,7 +40,9 @@
 <h2> Software </h2>
 
 <h3> General Operation </h3> 
-![img](../imgs/)
+
+![img](../imgs/ard-mega.png)
+
 <ul> 
     <li> Wide range of microcontrollers to choose from </li> 
     <li> Possibility to use Arduino code or MicroPython </li> 
