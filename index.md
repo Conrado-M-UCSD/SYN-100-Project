@@ -1,8 +1,9 @@
 
-<h2> Beach Cruiser (working title) </h2>
+<h2> Coast Cleanup Cruiser </h2>
 <h2> A new solution to beach pollution </h2> 
-<p> This design was submitted for inclusion into the 
-    UC San Diego Synthesis Digital Collection.</p>
+<p> 
+This project was developed as part of UC San Diego's Synthesis 100 course. 
+The designs have been subitted for potential inclusion in the Synthesis Digital Collection. </p>
 <p> If selected, this project will be added by Fall 2023. </p> 
 <h3> Pages </h3>
 <ul>
