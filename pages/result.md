@@ -55,3 +55,9 @@
     <li> Many compatible cameras and sensors can provide obstacle avoidance </li> 
     <li> Provided example outline can be catered to a specific location </li> 
 </ul>
+
+---
+
+<p> Addition details provided in documentation: 
+<a href ="https://github.com/Conrado-M-UCSD/SYN-100-Project/raw/main/project%20documentation/software-outline.pdf"> Download software outline (.pdf) </a>
+</p>
