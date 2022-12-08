@@ -11,5 +11,8 @@ Nonetheless, existing solutions have attempted to address the issue (such as [Be
 ---
 
 <p> Additional details provided in documentation: </p>
-<p> <a href = " "> Download pollution infographic (.pdf) </a> </p>
-<p> <a href = " "> Download beach pollution information (.pdf) </a> </p>
+
+<p> 
+<a href = "https://github.com/Conrado-M-UCSD/SYN-100-Project/raw/main/project%20documentation/Infographic.pdf"> Download pollution infographic (.pdf) </a> 
+</p>
+<p> <a href = "https://github.com/Conrado-M-UCSD/SYN-100-Project/raw/main/project%20documentation/Beach-Pollution-Info.pdf"> Download beach pollution information (.pdf) </a> </p>
