@@ -13,4 +13,4 @@
 ---
 
 <p> Additional details provided in documentation: </p>
-<p> <a href = " "> Download energy budget (.pdf) </a> </p>
+<p> <a href = "https://github.com/Conrado-M-UCSD/SYN-100-Project/raw/main/project%20documentation/Energy%20Budget.pdf"> Download energy budget (.pdf) </a> </p>
