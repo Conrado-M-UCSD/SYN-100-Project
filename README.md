@@ -10,3 +10,7 @@ This repository contains the following files:
   <li> Associated Documentation </li> 
   <li> Github Pages Deployment </li>
 </ul>
+
+<p> Project components can be downloaded from the latest release.</p>
+
+<h2> Click Here for Webpage </h2>
