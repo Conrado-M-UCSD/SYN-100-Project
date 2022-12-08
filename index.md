@@ -11,7 +11,7 @@ The supplied designs have been subitted for potential inclusion in the Synthesis
 <p> If selected, this project will be added to the Digital Collection at some point in the second half of 2023. </p> 
 <h3> Pages </h3>
 <ul>
-    <li> [Project Motivations](pages/motives.md) </li> 
+    <li> [Project Motivations](https://conrado-m-ucsd.github.io/SYN-100-Project/pages/motives.html) </li> 
     <li> Design Criteria </li> 
     <li> Result </li> 
     <li> Physical Characteristics </li> 
