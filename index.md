@@ -29,7 +29,7 @@ The supplied designs have been subitted for potential inclusion in the Synthesis
         <a href="https://conrado-m-ucsd.github.io/SYN-100-Project/pages/ele-ch.html">Electronic Characteristics</a> 
     </li>     
     <li>
-        <a href="https://conrado-m-ucsd.github.io/SYN-100-Project/pages/bom.html">Bill of Materials </a> 
+        <a href="https://conrado-m-ucsd.github.io/SYN-100-Project/pages/mat-sel.html">Component and Material Selections </a> 
     </li>     
 </ul>
 
