@@ -1,6 +1,9 @@
 
 <h2> Coast Cleanup Cruiser </h2>
 <h2> A new solution to beach pollution </h2> 
+
+![Image of robot](imgs/main.png "Coast Cleanup Cruiser")
+
 <p> 
 This project was developed as part of UC San Diego's Synthesis 100 course. 
 The designs have been subitted for potential inclusion in the Synthesis Digital Collection. </p>
