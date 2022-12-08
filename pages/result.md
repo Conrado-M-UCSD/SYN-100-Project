@@ -48,9 +48,10 @@
     <li> Possibility to use Arduino code or MicroPython </li> 
     <li> Obstacle avoidance integrtion with OpenCV </li> 
 </ul> 
-<h3> Autonomous Operation </h3> 
-    ![img](../imgs/)
-    <ul> 
-        <li> Many compatible cameras and sensors can provide obstacle avoidance </li> 
-        <li> Provided example outline can be catered to a specific location </li> 
-    </ul>
+
+<h3> Autonomous Operation </h3>
+
+<ul> 
+    <li> Many compatible cameras and sensors can provide obstacle avoidance </li> 
+    <li> Provided example outline can be catered to a specific location </li> 
+</ul>

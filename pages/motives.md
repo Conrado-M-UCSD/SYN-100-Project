@@ -16,4 +16,4 @@ Nonetheless, existing solutions have attempted to address the issue (such as [Be
 <a href = "https://github.com/Conrado-M-UCSD/SYN-100-Project/raw/main/project%20documentation/Infographic.pdf"> Download pollution infographic (.pdf) </a> 
 </p>
 <p> 
-<a href = "https://github.com/Conrado-M-UCSD/SYN-100-Project/raw/main/project%20documentation/Beach%20Pollution%20Info.pdf"> Download beach pollution information (.pdf) </a> </p>
+<a href = "https://github.com/Conrado-M-UCSD/SYN-100-Project/raw/main/project%20documentation/Beach-Pollution-Info.pdf"> Download beach pollution information (.pdf) </a> </p>
