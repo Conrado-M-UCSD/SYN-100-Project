@@ -2,6 +2,8 @@
 <h1 style="text-align: center;"> Coast Cleanup Cruiser </h1>
 <h3 style="text-align: center; font-style: italic;"> A new solution to beach pollution! </h3> 
 
+<p> Developed by: Conrado Martinez, Vladimir Rubtsov, Jiacheng Liu, Randy Duong
+
 
 ![Image of robot](imgs/main.png "Coast Cleanup Cruiser")
 
