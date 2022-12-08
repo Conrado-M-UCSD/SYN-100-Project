@@ -20,7 +20,7 @@ The supplied designs have been subitted for potential inclusion in the Synthesis
         <a href="https://conrado-m-ucsd.github.io/SYN-100-Project/pages/dsgn-crit.html">Design Criteria</a> 
     </li> 
     <li>
-        <a href="https://conrado-m-ucsd.github.io/SYN-100-Project/pages/results.html">Results</a> 
+        <a href="https://conrado-m-ucsd.github.io/SYN-100-Project/pages/result.html">Results</a> 
     </li> 
     <li>
         <a href="https://conrado-m-ucsd.github.io/SYN-100-Project/pages/phys-ch.html">Physical Characteristics</a> 
