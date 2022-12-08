@@ -1,4 +1,4 @@
-# SYN-100-Project Repository
+# SYN 100 Project Repository
 Group project for Synthesis 100 
 Coast Cleanup Cruiser
 
