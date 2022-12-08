@@ -1,5 +1,6 @@
-# SYN-100-Project
+# SYN-100-Project Repository
 Group project for Synthesis 100 
+Coast Cleanup Cruiser
 
 This repository contains the following files: 
 <ul> 
