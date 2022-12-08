@@ -26,10 +26,10 @@ The supplied designs have been subitted for potential inclusion in the Synthesis
         <a href="https://conrado-m-ucsd.github.io/SYN-100-Project/pages/phys-ch.html">Physical Characteristics</a> 
     </li> 
     <li>
-        <a href="https://conrado-m-ucsd.github.io/SYN-100-Project/pages/motives.html">Electronic Characteristics</a> 
+        <a href="https://conrado-m-ucsd.github.io/SYN-100-Project/pages/ele-ch.html">Electronic Characteristics</a> 
     </li>     
     <li>
-        <a href="https://conrado-m-ucsd.github.io/SYN-100-Project/pages/motives.html">Bill of Materials </a> 
+        <a href="https://conrado-m-ucsd.github.io/SYN-100-Project/pages/bom.html">Bill of Materials </a> 
     </li>     
 </ul>
 
