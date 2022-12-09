@@ -1,9 +1,8 @@
 # SYN 100 Project Repository
-Group project for Synthesis 100 
-Coast Cleanup Cruiser
-Work posted under MIT License
-
-Work In Progress!
+<p> Group project for Synthesis 100 </p>
+<p> Coast Cleanup Cruiser </p>
+<p> Work posted under <a href ="https://opensource.org/licenses/MIT">MIT License</a>.</p>
+<p> Work In Progress! </p>
 
 This repository contains the following files: 
 <ul> 
