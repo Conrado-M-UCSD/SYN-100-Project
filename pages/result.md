@@ -2,7 +2,7 @@
 
 <h1> Resulting Deliverable </h1> 
 
-<p> In the end, we were able to craft a solid platform that meets all of the <a href="dsgn-crit.html"> design criteria </a> we established. </p>
+<p> In the end, we were able to craft a solid platform that meets all of the <a href="dsgn-crit.html"> design criteria </a> we established. All associated files can be downloaded from the latest repository <a href="https://github.com/Conrado-M-UCSD/SYN-100-Project/releases"> release</a>.</p>
 
 <p> The Coast Cleanup Cruiser consists of the folloowing distnct parts: </p>
 
