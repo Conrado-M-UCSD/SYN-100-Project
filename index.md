@@ -10,9 +10,9 @@
 
 <p> 
 This project was developed as part of the course Synthesis 100 (SYN 100) at UC San Diego. This course saw the four of us complete the design, compile a BOM, plan a coding outline, drafting accompanying documentation and webpage in a 5 week span during our Fall 2022 quarter. 
-The supplied designs have been subitted for potential inclusion in the Synthesis Digital Collection. </p>
+The supplied designs have been submitted for potential inclusion in the Synthesis Digital Collection. </p>
 <p> If selected, this project will be added to the Digital Collection at some point in the second half of 2023. </p> 
-<p> All files produced as part of this project can be download from the latest <a href="https://github.com/Conrado-M-UCSD/SYN-100-Project/releases"> release </a> listed on the repository. </p>
+<p> All files produced as part of this project can be downloaded from the latest <a href="https://github.com/Conrado-M-UCSD/SYN-100-Project/releases"> release </a> listed on the repository. </p>
 
 <p> <a href="https://github.com/Conrado-M-UCSD/SYN-100-Project/raw/main/project%20documentation/Overview.pdf"> Download general project overview (.pdf) </a> </p>
 <h3> Pages </h3>

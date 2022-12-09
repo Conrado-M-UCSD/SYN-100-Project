@@ -4,7 +4,7 @@
 
 <p> In the end, we were able to craft a solid platform that meets all of the <a href="dsgn-crit.html"> design criteria </a> we established. All associated files can be downloaded from the latest repository <a href="https://github.com/Conrado-M-UCSD/SYN-100-Project/releases"> release</a>.</p>
 
-<p> The Coast Cleanup Cruiser consists of the folloowing distnct parts: </p>
+<p> The Coast Cleanup Cruiser consists of the following distinct parts: </p>
 
 <h2> Hardware </h2> 
 
@@ -14,7 +14,7 @@
 
 <ul> 
     <li> Conveyer belt and olds trash collection bins </li> 
-    <li> Includes batteries and top-mounted solar pannels </li> 
+    <li> Includes batteries and top-mounted solar panels </li> 
     <li> Moved by 4 wheels and 2 motors </li> 
 </ul> 
 
@@ -46,7 +46,7 @@
 <ul> 
     <li> Wide range of microcontrollers to choose from </li> 
     <li> Possibility to use Arduino code or MicroPython </li> 
-    <li> Obstacle avoidance integrtion with OpenCV </li> 
+    <li> Obstacle avoidance integration with OpenCV </li> 
 </ul> 
 
 <h3> Autonomous Operation </h3>

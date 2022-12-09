@@ -9,4 +9,4 @@
 <h3> Length: 398.8cm (13.1ft) </h3> 
 <h3> Width: 170cm (5.6ft) </h3> 
 <h3> Height: 135cm (4.4ft) </h3> 
-<h3> Weight: ~75kg (165lbs) </h3> 
+<h3> Weight: ~75kg (165 lbs) </h3> 
