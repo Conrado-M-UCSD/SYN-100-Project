@@ -1,6 +1,7 @@
 # SYN 100 Project Repository
 <p> Group project for Synthesis 100 </p>
 <p> Coast Cleanup Cruiser </p>
+<p> Developed by: Conrado Martinez, Vladimir Rubtsov, Jiacheng Liu, Randy Duong </p>
 <p> Work posted under <a href ="https://opensource.org/licenses/MIT">MIT License</a>.</p>
 <p> Work In Progress! </p>
 
