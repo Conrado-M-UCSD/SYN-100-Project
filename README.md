@@ -2,6 +2,8 @@
 Group project for Synthesis 100 
 Coast Cleanup Cruiser
 
+Work In Progress!
+
 This repository contains the following files: 
 <ul> 
   <li> 3D Models </li>
