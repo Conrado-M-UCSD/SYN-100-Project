@@ -15,4 +15,4 @@ This repository contains the following files:
 
 <p> Project components can be downloaded from the latest release.</p>
 
-<h2> Click Here for Webpage </h2>
+<h2> <a href="https://conrado-m-ucsd.github.io/SYN-100-Project/"> Click Here for Webpage </a> </h2>
