@@ -1,6 +1,7 @@
 # SYN 100 Project Repository
 Group project for Synthesis 100 
 Coast Cleanup Cruiser
+Work posted under MIT License
 
 Work In Progress!
 
