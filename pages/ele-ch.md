@@ -5,10 +5,10 @@
 <p> Here are some important specifications for the included reference design: </p>
 
 <h3> Operating Voltage: 12V DC </h3> 
-<h3> Typical Power Consumption: 2240Wh </h3> 
+<h3> Typical Power Consumption: 2240W </h3> 
 <h3> Battery Capacity: 200Ah @ 12V DC (from 2 cells in parallel) </h3>
-<h3> Solar Charge Rate: 900 watt-hours (per day) </h3> 
-<h3> Estimated Battery Life: 5 hours</h3> 
+<h3> Solar Charge Rate: ~1250Wh  </h3> 
+<h3> Estimated Battery Life: ~2 hours per charge</h3> 
 
 ---
 
