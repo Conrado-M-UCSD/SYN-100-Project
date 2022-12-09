@@ -8,7 +8,7 @@
 
 <h2> Hardware </h2> 
 
-<h3> Robot core body </h3>
+<h3> Robot Core Body </h3>
 
 ![Image of robot](../imgs/cruiser-core.png "Coast Cleanup Cruiser")
 
@@ -18,7 +18,7 @@
     <li> Moved by 4 wheels and 2 motors </li> 
 </ul> 
 
-<h3> Robot arm </h3> 
+<h3> Robot Arm </h3> 
 
 ![Image of robot](../imgs/armv3-whole-closeup.png "Coast Cleanup Cruiser")
 
@@ -27,7 +27,7 @@
     <li> Uses a wire mesh to target medium-sized trash and limit sand collection</li> 
 </ul> 
 
-<h3> Watertight electronics enclosure </h3> 
+<h3> Watertight Electronics Enclosure </h3> 
 
 ![img](../imgs/electronics-box.png)
 
